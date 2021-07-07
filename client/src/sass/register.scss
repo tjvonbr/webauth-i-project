@@ -1,0 +1,35 @@
+.register-wrapper {
+  width: 25%;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 3px;
+  box-shadow: 3px 3px gray;
+  margin: 50px auto;
+}
+
+.register-form {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.register-form {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.field-description {
+  margin: 0px;
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.register-input {
+  border-radius: 3px;
+  margin: 0 10px;
+  padding: 5px;
+}
